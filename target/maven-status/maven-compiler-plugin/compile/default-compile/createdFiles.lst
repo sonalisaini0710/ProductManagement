@@ -1,0 +1,14 @@
+com\nagarro\controller\AdminCreateController.class
+com\nagarro\dao\LoginDAO.class
+com\nagarro\dao\FileDAO.class
+com\nagarro\servlets\LogoutHandler.class
+com\nagarro\constants\ProductConstants.class
+com\nagarro\servlets\UpdateProductHandler.class
+com\nagarro\entities\Product.class
+com\nagarro\servlets\AddProductHandler.class
+com\nagarro\servlets\DeleteProductHandler.class
+com\nagarro\dao\ProductDAO.class
+com\nagarro\servlets\LoginHandler.class
+com\nagarro\util\DatabaseUtility.class
+com\nagarro\dao\AdminDAO.class
+com\nagarro\entities\User.class
